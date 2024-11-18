@@ -2,7 +2,7 @@
 - 😁 I'm studying software engineering @UPC
 - 👀 I'm interested in Cyber Security and Competitive Programing.
 - 💤 I like to sleep all day.
-- 🌱 Estoy preparando para futuro dictador para el Peru 
+- 🌱 Futuro dictador del Peru
 
 ## Contribution on GitHub
  
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img align="center" width="1100" height="160" src="res/text.png">
+    <img align="center" width="1100" height="160" src="https://images-ext-1.discordapp.net/external/PG_K7vjhS3rgN-qisc1tS-cq3Gf6T8CiXdBJ65Obp24/https/raw.githubusercontent.com/Diego22rct/Diego22rct/main/res/text.png?format=webp&quality=lossless&width=1278&height=238">
 </p>
 
 <p align="right">
