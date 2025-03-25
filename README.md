@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Mario
-- 😁 I'm studying software engineering @UPC
-- 👀 I'm interested in Cyber Security and Data Science.
-- 💤 I like to sleep all day.
-- 🌱 Futuro dictador del Peru
+
 
 ## Contribution on GitHub
  
